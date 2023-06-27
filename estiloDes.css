@@ -1,0 +1,52 @@
+
+.login{
+    background-color: orange;
+}
+.login:hover{
+    background-color: gray;
+}
+
+.navbar-brand, .nav-item{
+    color: white !important;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  
+  #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 999;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+
+.tamanho1{
+
+ height: 300vh;
+}
+.tamanho2{
+
+    height: 300vh;
+   }
+.tamanho3{
+
+    height: 300vh;
+   }
+   
+
+
